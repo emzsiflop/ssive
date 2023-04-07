@@ -6,10 +6,66 @@
             "footer": "You obtained the reward."
         }
     ],
+"ELEL_YJ_S": [
+        {
+            "name": ":s_: **ELEVEN** YUJIN",
+            "image": "https://media.discordapp.net/attachments/1020914703028989992/1093852178868862976/ATSS_Theme_Template_20230407185327.png",
+            "footer": "You obtained the reward."
+        }
+    ],
+"ELEL_YJ_A": [
+        {
+            "name": ":a_: **ELEVEN** YUJIN",
+            "image": "https://media.discordapp.net/attachments/1020914703028989992/1093852178604642374/ATSS_Theme_Template_20230407185331.png",
+            "footer": "You obtained the reward."
+        }
+    ],
+"ELEL_YJ_B": [
+        {
+            "name": ":b_: **ELEVEN** YUJIN",
+            "image": "https://media.discordapp.net/attachments/1020914703028989992/1093852178411683841/ATSS_Theme_Template_20230407185333.png",
+            "footer": "You obtained the reward."
+        }
+    ],
+"ELEL_YJ_C": [
+        {
+            "name": ":c_: **ELEVEN** YUJIN",
+            "image": "https://media.discordapp.net/attachments/1020914703028989992/1093852178151653376/ATSS_Theme_Template_20230407185336.png",
+            "footer": "You obtained the reward."
+        }
+    ],
 "ELEL_GL_R": [
         {
             "name": ":r_: **ELEVEN** GAEUL",
             "image": "https://media.discordapp.net/attachments/1020914703028989992/1093560476425797792/normal_20230406233751.png?width=203&height=286",
+            "footer": "You obtained the reward."
+        }
+    ],
+"ELEL_GL_S": [
+        {
+            "name": ":s_: **ELEVEN** GAEUL",
+            "image": "https://media.discordapp.net/attachments/1020914703028989992/1093852140897841152/ATSS_Theme_Template_20230407185409.png",
+            "footer": "You obtained the reward."
+        }
+    ],
+"ELEL_GL_A": [
+        {
+            "name": ":a_: **ELEVEN** GAEUL",
+            "image": "https://media.discordapp.net/attachments/1020914703028989992/1093852140692312117/ATSS_Theme_Template_20230407185419.png",
+            "footer": "You obtained the reward."
+        }
+    ],
+"ELEL_GL_B": [
+        {
+            "name": ":b_: **ELEVEN** GAEUL",
+            "image": "https://media.discordapp.net/attachments/1020914703028989992/1093852140507771061/ATSS_Theme_Template_20230407185422.png",
+            "footer": "You obtained the reward."
+        }
+    ],
+"ELEL_GL_C": [
+        {
+            "name": ":c_: **ELEVEN** GAEUL",
+            "image": "https://media.discordapp.net/attachments/1020914703028989992/1093852140285468692/ATSS_Theme_Template_20230407185425.png",
             "footer": "You obtained the reward."
         }
     ],
@@ -20,11 +76,67 @@
             "footer": "You obtained the reward."
         }
     ],
+"ELEL_RE_S": [
+        {
+            "name": ":s_: **ELEVEN** SEI",
+            "image": "https://media.discordapp.net/attachments/1020914703028989992/1093852139631157368/ATSS_Theme_Template_20230407185441.png",
+            "footer": "You obtained the reward."
+        }
+    ],
+"ELEL_RE_A": [
+        {
+            "name": ":a_: **ELEVEN** SEI",
+            "image": "https://media.discordapp.net/attachments/1020914703028989992/1093857342078058548/ATSS_Theme_Template_20230407191818.png",
+            "footer": "You obtained the reward."
+        }
+    ],
+"ELEL_RE_B": [
+        {
+            "name": ":b_: **ELEVEN** SEI",
+            "image": "https://media.discordapp.net/attachments/1020914703028989992/1093852139840876605/ATSS_Theme_Template_20230407185435.png",
+            "footer": "You obtained the reward."
+        }
+    ],
+"ELEL_RE_C": [
+        {
+            "name": ":c_: **ELEVEN** SEI",
+            "image": "https://media.discordapp.net/attachments/1020914703028989992/1093852140067360818/ATSS_Theme_Template_20230407185433.png",
+            "footer": "You obtained the reward."
+        }
+    ],
 "ELEL_WY_R": [
         {
             "name": ":r_: **ELEVEN** WONYOUNG",
             "image": "https://media.discordapp.net/attachments/1020914703028989992/1093560476035731556/normal_20230406233810.png?width=203&height=286",
             "footer": "You obtained the reward."
+        }
+    ],
+"ELEL_WY_S": [
+        {
+            "name": ":s_: **ELEVEN** WONYOUNG",
+            "image": "https://media.discordapp.net/attachments/1020914703028989992/1093852138628714617/ATSS_Theme_Template_20230407185457.png",
+            "footes": "You obtained the sewasd."
+        }
+    ],
+"ELEL_WY_A": [
+        {
+            "name": ":a_: **ELEVEN** WONYOUNG",
+            "image": "https://media.discordapp.net/attachments/1020914703028989992/1093852096434012220/ATSS_Theme_Template_20230407185500.png",
+            "footes": "You obtained the sewasd."
+        }
+    ],
+"ELEL_WY_B": [
+        {
+            "name": ":b_: **ELEVEN** WONYOUNG",
+            "image": "https://media.discordapp.net/attachments/1020914703028989992/1093852096190758942/ATSS_Theme_Template_20230407185503.png",
+            "footes": "You obtained the sewasd."
+        }
+    ],
+"ELEL_WY_C": [
+        {
+            "name": ":c_: **ELEVEN** WONYOUNG",
+            "image": "https://media.discordapp.net/attachments/1020914703028989992/1093852095985225759/ATSS_Theme_Template_20230407185507.png",
+            "footes": "You obtained the sewasd."
         }
     ],
 "ELEL_LZ_R": [
@@ -34,10 +146,66 @@
             "footer": "You obtained the reward."
         }
     ],
+"ELEL_LZ_S": [
+        {
+            "name": ":s_: **ELEVEN** LIZ",
+            "image": "https://media.discordapp.net/attachments/1020914703028989992/1093852095452561408/ATSS_Theme_Template_20230407185623.png",
+            "footer": "You obtained the reward."
+        }
+    ],
+"ELEL_LZ_A": [
+        {
+            "name": ":a_: **ELEVEN** LIZ",
+            "image": "https://media.discordapp.net/attachments/1020914703028989992/1093852095238639686/ATSS_Theme_Template_20230407185627.png,
+            "footer": "You obtained the reward."
+        }
+    ],
+"ELEL_LZ_B": [
+        {
+            "name": ":b_: **ELEVEN** LIZ",
+            "image": "https://media.discordapp.net/attachments/1020914703028989992/1093852095679037540/ATSS_Theme_Template_20230407185629.png",
+            "footer": "You obtained the reward."
+        }
+    ],
+"ELEL_LZ_C": [
+        {
+            "name": ":c_: **ELEVEN** LIZ",
+            "image": "https://media.discordapp.net/attachments/1020914703028989992/1093852095033114634/ATSS_Theme_Template_20230407185632.png",
+            "footer": "You obtained the reward."
+        }
+    ],
 "ELEL_LS_R": [
         {
             "name": ":r_: **ELEVEN** LEESEO",
             "image": "https://media.discordapp.net/attachments/1020914703028989992/1093560475842789486/normal_20230406233817.png?width=203&height=286",
+            "footer": "You obtained the reward."
+        }
+  ],
+"ELEL_LS_S": [
+        {
+            "name": ":s_: **ELEVEN** LEESEO",
+            "image": "https://media.discordapp.net/attachments/1020914703028989992/1093852094382997504/ATSS_Theme_Template_20230407185647.png",
+            "footer": "You obtained the reward."
+        }
+  ],
+"ELEL_LS_A": [
+        {
+            "name": ":a_: **ELEVEN** LEESEO",
+            "image": "https://media.discordapp.net/attachments/1020914703028989992/1093852094622076928/ATSS_Theme_Template_20230407185644.png",
+            "footer": "You obtained the reward."
+        }
+  ],
+"ELEL_LS_B": [
+        {
+            "name": ":b_: **ELEVEN** LEESEO",
+            "image": "https://media.discordapp.net/attachments/1020914703028989992/1093852094840193116/ATSS_Theme_Template_20230407185642.png",
+            "footer": "You obtained the reward."
+        }
+  ],
+"ELEL_LS_C": [
+        {
+            "name": ":c_: **ELEVEN** LEESEO",
+            "image": "https://media.discordapp.net/attachments/1020914703028989992/1093858618937442324/ATSS_Theme_Template_20230407185639.png",
             "footer": "You obtained the reward."
         }
   ]
